@@ -1,4 +1,4 @@
-Bot Created Via [NFD](https://github.com/LloydAsp/nfd)
+本机器人由Cloudflare提供技术支持!
 
 使用方法：
 
